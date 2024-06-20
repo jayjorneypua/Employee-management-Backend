@@ -1,0 +1,1 @@
+Employee Management System that allows you to perform basic CRUD operation that also includes one-to-many relationships. Each employee has one department and position. Each position and departments can have multiple employees. I used CQRS pattern with clean architecture for the backend. 
